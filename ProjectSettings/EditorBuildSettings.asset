@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Pre nave.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MENU.unity
+    guid: 5e0ee7e1de0473f46a9c6ace76dad0dd
   - enabled: 1
     path: Assets/Scenes/Minigame1.unity
     guid: 42ab7fb443c00424884a6812d03ab0dc
@@ -24,8 +24,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigame4.unity
     guid: 25ac6039bbe77ac4bb905bb316023ecd
   - enabled: 1
-    path: Assets/Scenes/MENU.unity
-    guid: 5e0ee7e1de0473f46a9c6ace76dad0dd
+    path: Assets/Scenes/Pre nave.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/Derrota.unity
     guid: 830440ac3920f9a44a845dcebca4cd30
